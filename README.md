@@ -1,1 +1,1 @@
-CodeClauseInternship_Python
+CodeClause Internship in Python
