@@ -27,7 +27,7 @@ class MailApp:
         self.body_label.grid(row=4, column=0, sticky="w", padx=5)
         self.body_text = tk.Text(master, height=6, width=28)
         self.body_text.grid(row=4, column=1, sticky="w", pady=20)
-        self.send_button = tk.Button(master, text="Send", command=self.send_mail, width=16, background="Purple", foreground="White", font=8)
+        self.send_button = tk.Button(master, text="Send", command=self.send_mail, width=16, background="#fc036b", foreground="White", font=8)
         self.send_button.grid(row=5, column=0, columnspan=3, sticky="w", padx=200)
 
     def send_mail(self):
