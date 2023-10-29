@@ -1,1 +1,1 @@
-All the programs for the tasks assigned in Python language
+All the programs in Python language for the tasks assigned.
