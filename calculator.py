@@ -36,7 +36,7 @@ def options():
           elif continued == 'no':
                break
           else :
-               print("Continue")
+               print("Continuing...")
 
 
 options()
